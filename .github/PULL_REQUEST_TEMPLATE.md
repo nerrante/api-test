@@ -1,4 +1,4 @@
-<ins>Before pull request creation</ins>
+<ins>Before marking pull request ready for review</ins>
 - [ ] All unit tests have been run in local environment and have passed 
 - [ ] APIs return meaningful error messages and codes, and follow our [`best practices`](https://confluence.isis.org/display/TechTeam/API+Strategy)
 - [ ] Code follows our [`coding standards and guidelines`](https://confluence.isis.org/display/TechTeam/Coding+Standards+and+Guidelines)
