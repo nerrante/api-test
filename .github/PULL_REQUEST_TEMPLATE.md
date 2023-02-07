@@ -7,15 +7,13 @@
   - [ ] Looked into change and tested that change will not break existing code 
 - [ ] Thorough manual testing has been done, covering acceptance criteria and all areas that these code changes might affect 
 - [ ] UX has reviewed and any suggested changes are complete 
-- [ ] Another developer has tested the code 
+- [ ] Another developer has tested the code and any issues discovered have been resolved
+- [ ] Code has been demonstrated and reviewed with product, UX, QA, and other developers  
 
 ___
 
 <ins>Before merging pull request</ins>
-- [ ] Code has been demonstrated and reviewed with product, UX, QA, and other developers 
 - [ ] Any code direction/decisions made have been documented [`here`](https://confluence.isis.org/display/TechTeam/Coding+Standards+and+Guidelines) 
 - [ ] PR conversations are resolved and there are no outstanding change requests (person that created comment should be the one that marked it resolved) 
 - [ ] Branch is up to date with main and has no conflicts 
-  - [ ] Manual and automated unit tests were completed again after all changes to code 
-- [ ] Automated unit tests all passed 
-- [ ] Automated build succeeded 
+  - [ ] Manual and automated unit tests were completed again after all final changes to code
