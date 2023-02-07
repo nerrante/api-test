@@ -7,7 +7,7 @@
   - [ ] Looked into change and tested that change will not break existing code 
 - [ ] Thorough manual testing has been done, covering acceptance criteria and all areas that these code changes might affect 
 - [ ] UX has reviewed and any suggested changes are complete 
-- [ ] Another developer has tested the code
+- [ ] Another developer has tested the code and any issues discovered have been resolved
 - [ ] Code has been demonstrated and reviewed with product, UX, QA, and other developers  
 
 ___
