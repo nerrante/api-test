@@ -1,4 +1,5 @@
 <ins>Before marking pull request ready for review</ins>
+- [ ] Unit tests have been written for new logic, covering both happy and unhappy paths 
 - [ ] All unit tests have been run in local environment and have passed 
 - [ ] APIs return meaningful error messages and codes, and follow our [`best practices`](https://confluence.isis.org/display/TechTeam/API+Strategy)
 - [ ] Code follows our [`coding standards and guidelines`](https://confluence.isis.org/display/TechTeam/Coding+Standards+and+Guidelines)
