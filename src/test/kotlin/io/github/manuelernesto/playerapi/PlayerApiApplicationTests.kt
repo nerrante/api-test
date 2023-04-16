@@ -30,7 +30,7 @@ class PlayerApiApplicationTests {
         val result = playerService.getById(12345)
         assert(result.name == "John Q. Player")
         assert(result.age == 23)
-        assert(result.nationality == "American")
+        assert(result.nationality == "Canadian")
     }
 
 }
