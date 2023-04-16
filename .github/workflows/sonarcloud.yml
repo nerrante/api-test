@@ -18,6 +18,8 @@ jobs:
           sudo /etc/init.d/mysql start
           mysql -e 'CREATE DATABASE dbplayers;' -uroot -proot
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Shallow clones should be disabled for a better relevancy of analysis
       - uses: actions/setup-java@v3
         with:
           java-version: '17'
