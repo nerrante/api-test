@@ -1,6 +1,6 @@
 package io.github.manuelernesto.playerapi.model
 
-import javax.persistence.*
+import jakarta.persistence.*
 
 @Entity
 @Table(name = "tb_player")
