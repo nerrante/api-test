@@ -1,6 +1,8 @@
 name: Require Checklist
 
 on:
+  push:
+    branches: [ 'main' ]
   pull_request:
     branches: [ "main" ]
     types: [ "ready_for_review"]
